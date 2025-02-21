@@ -16,7 +16,7 @@ class _ImcPageState extends State<ImcPage> {
   TextEditingController heightController = TextEditingController();
   GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-  String _ifoText = "Info";
+  String _ifoText = "Informe Seus Dados!";
 
   void resetFelds() {
     weightController.text = '';
