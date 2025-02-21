@@ -1,0 +1,1 @@
+C:\Users\xacar\Desktop\Projetos\Flutter\Flutter_Calculadora_IMC\build\app\intermediates\cxx\RelWithDebInfo\4k3723m2\obj\x86_64
